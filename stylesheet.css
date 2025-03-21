@@ -1,0 +1,103 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
+
+body {
+	width:960px;
+	margin: 0 auto;
+}
+
+nav {
+	padding: 10px;
+	margin: 10px;
+	background-color: #BFD8E7}
+
+li{
+	padding: 5px;}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #BFD8E7;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #BFD8E7;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.fillerhome{
+	background-color: #FFFFFF;
+	width:295px;
+	padding:5px;
+}
+
+.fillertrue{
+	background-color: #FFFFFF;
+	width: 210px;
+	padding: 5px;
+}
+
+.change2{
+	width:450px;
+	padding:5px;
+}
+
+.places{
+	width:450px;
+	padding:5px;
+	height:639px;
+}
+
+
+.travelimages{
+	width:450px;
+	padding:5px;
+
+}
+
+.change3{
+	width:450px;
+	padding:5px;
+}
+
+.childhoodlength{
+	width:450px;
+	padding:5px;
+	height:210px;
+}
+
+
+.edit-description dt{
+	font-weight: bold;
+	direction: ltr;
+	display: block;
+	margin-top:20px;
+}
+
+.edit-description dd {
+	margin-left: 20px;
+}
+
+.navdisplay li{
+	display: inline;
+}
+
+
+
+footer{
+	background-color: #BFD8E7;
+	padding: 10px;
+	margin: 10px;
+}
